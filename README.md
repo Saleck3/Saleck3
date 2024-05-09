@@ -1,6 +1,6 @@
 ## My name is Saleck, you probably didn't heard about me
 ### Hello there 👋👋👋👋
-I'm a PHP developer currently set in Argentina, I'm studying in the National University of La Matanza (UNLaM)[https://www.unlam.edu.ar] and this is my personal GitHub
+I'm a PHP developer currently set in Argentina, I'm studying in the National University of La Matanza [UNLaM](https://www.unlam.edu.ar) and this is my personal GitHub
 
 I have some personal projects but are mostly focused on my studies, so probably most of my repos are private or not maintained at all. I'm looking forward to making some useful projects, ideas are always welcome!
 
